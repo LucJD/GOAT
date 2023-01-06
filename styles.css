@@ -3,6 +3,7 @@ body{
     padding: 20px;
 }
 img{
+  height: 100%;
     width: 100%;
     border-radius: 50px;
     border: 2px solid white;
@@ -19,7 +20,7 @@ img{
     background-color: #190B1F;
     border-radius: 25px;
     padding-left: 1px;
-    padding-right: 1px;
+    padding-right: 3px;
 }
 .info-bar{
     background-color:#2C1236;
